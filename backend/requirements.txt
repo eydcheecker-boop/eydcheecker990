@@ -1,0 +1,10 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-multipart==0.0.6
+sqlalchemy==2.2.3
+databases==0.7.4
+pydantic==1.10.12
+typing_extensions==4.7.1
+# Optional ML packages (install only if you want IndoBERT features)
+transformers>=4.0.0
+torch>=1.13.0
